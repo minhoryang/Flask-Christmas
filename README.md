@@ -50,6 +50,27 @@ Hello Flask-Christmas, It will cover Restful, 12-Factors, Neo-Monolith, ... (hop
 /engines/$roles/$modes
 ```
 
+## Inspired
+1. https://caremad.io/2013/07/setup-vs-requirement/
+
+
+## Will be (Ready to) inspired from
+1. https://github.com/JackStouffer/cookiecutter-Flask-Foundation
+1. https://github.com/semirook/flask-kit
+1. https://github.com/mattupstate/overholt
+1. https://github.com/nickjj/build-a-saas-app-with-flask
+1. https://github.com/miguelgrinberg/flask-celery-example
+1. https://github.com/lqez/flasky
+1. https://github.com/ziozzang/flask-as-http-proxy-server
+1. https://github.com/uber/clay
+1. https://github.com/hustlzp/Flask-Boost
+1. https://github.com/sloria/cookiecutter-flask
+1. https://github.com/JackStouffer/Flask-Foundation
+1. https://github.com/level09/enferno
+1. https://github.com/jstacoder/flask-xxl
+1. https://github.com/Kroisse/flask-factory
+
+
 ## questions
 1. Is license changable after published?
 
